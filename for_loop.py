@@ -54,4 +54,4 @@ def has_s_m(text):
 print(has_s_m("Johms"))
 
 
-print("a" in "ama
+print("a" in "ama)
